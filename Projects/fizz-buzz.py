@@ -8,4 +8,4 @@ for number in range(1, upper_number + 1):
     elif number % 5 == 0:
         print("Buzz")
     else:
-        print(number)
+        print(number(len))
