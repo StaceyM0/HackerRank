@@ -6,6 +6,10 @@ name = input("What is your name?\n") #Now you will type your name
 
 print("Hello " + name + ", thank you so much for coming in today.\n\n")
 
+# love this dialog so much'
+
+
+
 menu = "Black Coffee, Espresso, Latte, Cappucino"
 
 print(name + ", what would you like from our menu today? Here is what we are serving.\n" + menu)
