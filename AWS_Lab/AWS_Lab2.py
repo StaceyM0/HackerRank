@@ -3,9 +3,7 @@ import boto3
 client = boto3.client('translate')
  
 what
-what 
-what 
-   
+
 #### Add the new text below this line ####
 
 def translate_text(): # declare the function using def, name, braces for parameters and a colon  
