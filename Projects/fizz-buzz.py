@@ -1,6 +1,3 @@
-
-
-
 upper_number = int(input("How many values should we process: "))
 
 for number in range(1, upper_number + 1):
