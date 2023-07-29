@@ -1,3 +1,6 @@
+
+
+
 import boto3
 
 def translate_text(text, source_language_code, target_language_code): # we define the positional arguments in the ()
