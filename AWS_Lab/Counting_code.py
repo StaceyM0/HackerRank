@@ -1,3 +1,6 @@
+
+
+
 import boto3
 
 fruits = ['apples','oranges','bananas']
